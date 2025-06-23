@@ -15,7 +15,8 @@ Technologies Used: HTML, CSS, JavaScript
 
 Project Overview: Personal Portfolio Website
 
-"C:\Users\pudis\Desktop\portfolio.html"
+Output:
+![Image](https://github.com/user-attachments/assets/3c20efe6-9b47-4325-bb69-3a5276d93688)
 
 This project is a single-page personal portfolio website designed using HTML and CSS with JavaScript used for interactive navigation.
 
