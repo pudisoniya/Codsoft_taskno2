@@ -1,15 +1,24 @@
 Project Summary
+
 Name: Pudi Soniya
+
 Company: CodSoft
+
 Batch: June Batch B31
+
 Domain: Web Development
+
 Course Duration: 01–30 June 2025
+
 Project Name: Personal Portfolio Website
 Technologies Used: HTML, CSS, JavaScript
 
 Project Overview: Personal Portfolio Website
+
 "C:\Users\pudis\Desktop\portfolio.html"
+
 This project is a single-page personal portfolio website designed using HTML and CSS with JavaScript used for interactive navigation.
+
 It showcases personal, academic, and professional information in a clean, tab-based layout.
 
 Key Features Implemented
